@@ -1,8 +1,0 @@
-{
-  "variants": {
-    "facing=north": { "model": "bfs_lr:block/or_gate", "y": 180 },
-    "facing=south": { "model": "bfs_lr:block/or_gate"},
-    "facing=east":  { "model": "bfs_lr:block/or_gate", "y": 270 },
-    "facing=west":  { "model": "bfs_lr:block/or_gate", "y": 90 }
-  }
-}
